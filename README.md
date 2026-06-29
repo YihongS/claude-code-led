@@ -24,7 +24,10 @@
 - LED strip with **Adalight protocol** support (e.g. Skydimo SK0127)
 - The USB cable/receiver that came with your LED strip
 - Windows + WSL2 (see [Mac](#mac) below for macOS)
-- [Buy on AliExpress] https://s.click.aliexpress.com/e/_c3wtd7Lj - Best value global shipping  (Affiliate)
+- [Buy on Amazon (US)] https://amzn.to/4vwtiJ8 - Fast local US shipping (Affiliate)
+- [Buy on Amazon (UK)] https://amzn.to/444XVcz - Fast local UK shipping (Affiliate)
+- [Buy on AliExpress] https://s.click.aliexpress.com/e/_c3wtd7Lj - Best value global shipping (Affiliate)
+- [Official Website](https://skydimo.com/) - For official driver and product documentation
 
 ---
 

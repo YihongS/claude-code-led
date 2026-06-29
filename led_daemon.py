@@ -11,9 +11,9 @@ import sys
 
 _WSL_NET = ipaddress.ip_network("172.16.0.0/12")
 
-SERIAL_PORT = "COM3"
+SERIAL_PORT = os.environ.get("LED_SERIAL_PORT", "COM3")
 BAUD_RATE = 115200
-LED_COUNT = 65
+LED_COUNT = int(os.environ.get("LED_COUNT", "65"))
 KEEP_ALIVE_INTERVAL = 0.033
 TCP_HOST = "0.0.0.0"
 TCP_PORT = 7755

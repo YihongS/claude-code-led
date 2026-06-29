@@ -22,10 +22,10 @@
 ## Hardware Requirements / 硬件要求
 
 - LED strip with **Adalight protocol** support (e.g. Skydimo SK0127)
-- USB-to-serial adapter (CH340 or similar)
+- The USB cable/receiver that came with your LED strip
 - Windows + WSL2 (see [Mac](#mac) below for macOS)
 
-支持 Adalight 协议的 LED 灯带（如 Skydimo SK0127），CH340 USB 转串口适配器，Windows + WSL2 环境（macOS 见 [Mac 移植](#mac) 章节）。
+支持 Adalight 协议的 LED 灯带（如 Skydimo SK0127），灯带自带的 USB 接收器，Windows + WSL2 环境（macOS 见 [Mac 移植](#mac) 章节）。
 
 ---
 

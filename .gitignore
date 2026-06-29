@@ -1,0 +1,4 @@
+skydimo_path.txt
+test_daemon_debug.py
+__pycache__/
+*.pyc
